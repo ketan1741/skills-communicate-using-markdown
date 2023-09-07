@@ -9,6 +9,8 @@
 
 # Communicate using Markdown
 
+## This course is very helpful! Hoorah! 09/07
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
